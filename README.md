@@ -22,7 +22,13 @@
 - Product
   - Code-prettify
     - [code-prettifyをリファクタリングした](https://yuiktmr.blog/article/20220128_prettify.html#h2_publish)
-    - [Github Repo](https://github.com/graycat27/code-prettify)
+    - [GitHub Repo](https://github.com/graycat27/code-prettify)
   - Footnote-JS
     - [HTMLで脚注をお手軽に](https://yuiktmr.blog/article/20220205_footnote.html)
-    - [Github release](https://github.com/graycat27/footnote-js/releases)
+    - [GitHub release](https://github.com/graycat27/footnote-js/releases)
+  - 西武池袋線 秋津駅 発車標シミュレーター
+    - [公開ウェブページ](https://yui-kitamura.eng.pro/private/railway/sim/seibu/akitsu/)
+    - [GitHub Repo](https://github.com/yui-Kitamura/SeibuAkitsuSignBoard)
+    - 関連ツール
+      - 画像変換 [GitHub Repo](https://github.com/yui-Kitamura/EditDottedPicture)
+  
