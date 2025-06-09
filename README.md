@@ -12,19 +12,23 @@
   - [My Website](https://yui-kitamura.me)
   - [Blog](https://yuiktmr.blog)
   - [255.net](https://nigogo.net)
+    - [IPアドレスを知りたい](https://yuiktmr.blog/article/20250122_nigogo)
   - [seven.zip](https://domain.seven.zip)
   - [jpn.zip](https://yui-kitamura.eng.pro/blog/llc/article/20230519_sevenZip.html#s2_jpn)
 - Knowledge article
-  - [jUnitでprivateメソッドをテストする](https://yuiktmr.blog/article/20220124_jUnitPrivate.html)
-    - [Test the PRIVATE method with jUnit](https://yuiktmr.blog/article/20221006_jUnitPrivate_en.html)
-  - [GoogleFontsIconを疑似要素に埋め込む](https://yuiktmr.blog/article/20220430_GglFntIcnWthCss.html)
-  - [MyBatisでストアドプロシージャを使う](https://yuiktmr.blog/article/20230304_MyBatisStoredProcedure.html)
+  - [jUnitでprivateメソッドをテストする](https://yuiktmr.blog/article/20220124_jUnitPrivate)
+    - [Test the PRIVATE method with jUnit](https://yuiktmr.blog/article/20221006_jUnitPrivate_en)
+  - [GoogleFontsIconを疑似要素に埋め込む](https://yuiktmr.blog/article/20220430_GglFntIcnWthCss)
+  - [MyBatisでストアドプロシージャを使う](https://yuiktmr.blog/article/20230304_MyBatisStoredProcedure)
+  - [マジックナンバー【31】](https://yuiktmr.blog/article/20250425_java31)
 - Product
+  - MoveAsYou
+    - [GitHub Repo](https://github.com/yui-Kitamura/MoveAsYou)
   - Code-prettify
     - [code-prettifyをリファクタリングした](https://yuiktmr.blog/article/20220128_prettify.html#h2_publish)
     - [GitHub Repo](https://github.com/graycat27/code-prettify)
   - Footnote-JS
-    - [HTMLで脚注をお手軽に](https://yuiktmr.blog/article/20220205_footnote.html)
+    - [HTMLで脚注をお手軽に](https://yuiktmr.blog/article/20220205_footnote)
     - [GitHub release](https://github.com/graycat27/footnote-js/releases)
   - 西武池袋線 秋津駅 発車標シミュレーター
     - [公開ウェブページ](https://yui-kitamura.eng.pro/private/railway/sim/seibu/akitsu/)
